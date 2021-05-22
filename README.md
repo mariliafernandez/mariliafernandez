@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a junior data scientis and a computer engineering student who is passionate about science and solving problems by writing code.
+I'm a junior data scientist and a computer engineering student who is passionate about science and solving problems by writing code.
 
 - 🔭 I’m currently working on my undergraduate thesis in computer vision.
 - 🌱 I’m currently learning about regression models.
