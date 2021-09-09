@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a junior full stack dev, data scientist and a computer engineering student who is passionate about science and solving problems by writing code.
+I'm a computer engineer who is passionate about science and solving problems by writing code.
 
 - 🔭 I’m currently working on my undergraduate thesis about image descriptors and Hilbert's curve.
 - 🌱 I’m currently learning ReactJS.
