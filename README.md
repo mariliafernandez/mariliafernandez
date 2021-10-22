@@ -2,7 +2,7 @@
 
 I'm a computer engineer who is passionate about science and solving problems by writing code.
 
-- 🔭 I’m currently working on my undergraduate thesis about image descriptors and Hilbert's curve.
+- 🔭 I’m currently working on a computer vision project for object counting.
 - 🌱 I’m currently learning ReactJS.
 - 💻 Languages: Python, C, Java and JavaScript.
 - 🌌 Hobbies: Discovering new things and new places.
