@@ -2,7 +2,7 @@
 
 I'm a computer engineer who is passionate about science and solving problems by writing code.
 
-- 🔭 I’m currently working with Computer Vision.
+- 🔭 I’m currently working with NLP.
 - 🌱 I’m currently learning about Machine Learning and Cyber Attack.
 - 💻 Languages: Python, C, Java and JavaScript.
 - 🌌 Hobbies: Discovering new things and new places.
